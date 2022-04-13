@@ -26,18 +26,5 @@
 	}],
 	"background_color": "#EDF2F4",
 	"display": "standalone",
-	"theme_color": "#ff4e00",
-	"scope": "/",
-	"shortcuts": [
-		{
-			"name": "Deals",
-			"short_name": "Deals",
-			"description": "Geekflare - Deals",
-			"url": "https://https://singa2000.github.io/",
-			"icons": [{
-				"src": "https://https://singa2000.github.io/icon-152x152.png",
-				"sizes": "152x152"
-			}]
-		}
-	]
+	"theme_color": "#ff4e00"
 }
