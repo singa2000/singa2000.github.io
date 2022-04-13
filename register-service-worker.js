@@ -1,6 +1,6 @@
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
-        navigator.serviceWorker.register('https://aghilanbaskar.github.io/pwa-demo/service-worker.js');
+        navigator.serviceWorker.register('https://https://singa2000.github.io/service-worker.js');
     });
 }
 
@@ -20,7 +20,7 @@ const displayNotification = notificationTitle => {
             console.log(reg)
             const options = {
                     body: 'Thanks for allowing push notification !',
-                    icon:  '/assets/icons/icon-512x512.png',
+                    icon:  '/icon-512x512.png',
                     vibrate: [100, 50, 100],
                     data: {
                       dateOfArrival: Date.now(),
