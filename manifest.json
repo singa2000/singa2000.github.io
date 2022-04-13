@@ -2,7 +2,7 @@
 	"name": "Geekflare",
 	"short_name": "Geekflare",
 	"description": "Geekflare produces high-quality technology & finance articles, makes tools, and APIs to help businesses and people grow.",
-	"start_url": "/pwa-demo/",
+	"start_url": "/",
 	"icons": [{
 		"src": "icon-128x128.png",
 		"sizes": "128x128",
@@ -27,44 +27,15 @@
 	"background_color": "#EDF2F4",
 	"display": "standalone",
 	"theme_color": "#ff4e00",
-	"scope": "/pwa-demo/",
-	"shortcuts": [{
-			"name": "Articles",
-			"short_name": "Articles",
-			"description": "1595 articles on Security, Sysadmin, Digital Marketing, Cloud Computing, Development, and many other topics.",
-			"url": "https://aghilanbaskar.github.io/pwa-demo/articles",
-			"icons": [{
-				"src": "https://aghilanbaskar.github.io/pwa-demo/assets/icons/icon-152x152.png",
-				"sizes": "152x152"
-			}]
-		},
-		{
-			"name": "Authors",
-			"short_name": "Authors",
-			"description": "Geekflare - Authors",
-			"url": "https://aghilanbaskar.github.io/pwa-demo/authors",
-			"icons": [{
-				"src": "https://aghilanbaskar.github.io/pwa-demo/assets/icons/icon-152x152.png",
-				"sizes": "152x152"
-			}]
-		},
-		{
-			"name": "Tools",
-			"short_name": "Tools",
-			"description": "Geekflare - Tools",
-			"url": "https://aghilanbaskar.github.io/pwa-demo/tools",
-			"icons": [{
-				"src": "https://aghilanbaskar.github.io/pwa-demo/assets/icons/icon-152x152.png",
-				"sizes": "152x152"
-			}]
-		},
+	"scope": "/",
+	"shortcuts": [
 		{
 			"name": "Deals",
 			"short_name": "Deals",
 			"description": "Geekflare - Deals",
-			"url": "https://aghilanbaskar.github.io/pwa-demo/deals",
+			"url": "https://https://singa2000.github.io/",
 			"icons": [{
-				"src": "https://aghilanbaskar.github.io/pwa-demo/assets/icons/icon-152x152.png",
+				"src": "https://https://singa2000.github.io/icon-152x152.png",
 				"sizes": "152x152"
 			}]
 		}
