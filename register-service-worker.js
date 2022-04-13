@@ -1,6 +1,6 @@
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
-        navigator.serviceWorker.register('https://https://singa2000.github.io/service-worker.js');
+        navigator.serviceWorker.register('https://singa2000.github.io/service-worker.js');
     });
 }
 
